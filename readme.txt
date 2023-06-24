@@ -58,4 +58,4 @@ To use the Weather Forecasting Tool, follow these steps:
 
 7. Images/Videos of Working Solution
     
-    Include any relevant images or videos showcasing your working solution. This could include screenshots of the tool in action or a video demonstration. Feel free to update this section with your own visuals to provide a visual representation of your Weather Forecasting Tool.
+    Included relevant image showcasing working solution. This include screenshots of the tool in action.
